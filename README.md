@@ -1,4 +1,4 @@
 # una-ihcux-lista03
 
 ## 📸 Evidência de Execução
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a6932393-f9c9-409d-a8fc-dd5e13c7dd60" />
+<img width="1048" height="373" alt="Image" src="https://github.com/user-attachments/assets/a916d658-3c61-4a07-af1e-cccaee8beeb4" />
